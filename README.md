@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @krozo111
+- 👋 Hi, I’m Jorge Corzo
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on project for beginners
-- 📫 How to reach me ........
+- 📫 How to reach me jorge.corzoh@outlook.com
 
 <!---
 krozo111/krozo111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
